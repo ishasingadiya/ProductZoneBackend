@@ -1,4 +1,5 @@
 Product Zone – E-Commerce Product Management System
+
 Product Zone is a full-stack web application built with Angular and Spring Boot that enables efficient product and category management for an e-commerce platform. The system provides an admin-friendly interface to manage products while ensuring seamless communication with the backend through REST APIs.
 
 🚀 Features
